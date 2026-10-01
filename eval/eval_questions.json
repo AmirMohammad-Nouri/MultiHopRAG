@@ -1,0 +1,32 @@
+[
+  {
+    "id": "q1",
+    "question": "What does the A1C test measure?",
+    "type": "single_hop",
+    "expected_keywords": ["blood glucose", "blood sugar"]
+  },
+  {
+    "id": "q2",
+    "question": "What A1C percentage indicates type 2 diabetes?",
+    "type": "single_hop",
+    "expected_keywords": ["6.5", "above 6.5"]
+  },
+  {
+    "id": "q3",
+    "question": "How often should someone with diabetes get the A1C test?",
+    "type": "single_hop",
+    "expected_keywords": ["twice a year", "at least twice"]
+  },
+  {
+    "id": "q4",
+    "question": "What abdominal pain symptoms require immediate medical attention?",
+    "type": "single_hop",
+    "expected_keywords": ["sudden and sharp", "vomiting blood", "blood in your stool"]
+  },
+  {
+    "id": "q5",
+    "question": "Is the A1C test the same as daily blood sugar checks?",
+    "type": "single_hop",
+    "expected_keywords": ["different", "not the same"]
+  }
+]
