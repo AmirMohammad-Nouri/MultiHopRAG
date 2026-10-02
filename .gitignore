@@ -1,3 +1,6 @@
 data/extracted/
 data/mplus_topics.xml
 venv/
+*.pyc
+eval/results_detailed.json
+eval/results_summary.json
